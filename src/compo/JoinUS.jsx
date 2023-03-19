@@ -16,12 +16,12 @@ function NewsletterSubscription() {
       <h2 className="newsletter-title">Subscribe to our Newsletter</h2>
       <form onSubmit={handleSubmit}>
         <label className="newsletter-label">
-          Name
+          <h3 className='label-class'>Name</h3>
           <input type="text" value={name} onChange={(e) => setName(e.target.value)} className="newsletter-input" />
         </label>
         <br />
         <label className="newsletter-label">
-          Email
+          <h3 className='label-class'>Email</h3>
           <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} className="newsletter-input" />
         </label>
         <br />

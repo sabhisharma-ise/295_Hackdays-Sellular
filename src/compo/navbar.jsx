@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../asserts/logo.png';
+import logo from '../asserts/logo-removebg-preview.png';
 import './navbar.css';
 import { Link } from 'react-router-dom';
 import Intro from './intro';
@@ -25,7 +25,7 @@ function Navbar() {
       </div>
       <ul className={showMenu ? 'nav-links show' : 'nav-links'}>
       <li><Link to="/" onClick={() => handleLinkClick({Intro})}>Feed</Link></li>
-        <li><Link to="./static/index.html/index.html" target={'_blank'}>Sign UP/Log In</Link></li>
+        <li><Link to="./static/index.html/index.html" target={'_blank'}>Sign up</Link></li>
       </ul>
     </nav>
   );

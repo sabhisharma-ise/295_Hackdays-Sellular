@@ -8,59 +8,59 @@ export const data = [
       id: 1,
       img: img1,
       name: "Product 1",
-      desc: "Participants may work on projects that address issues like disease prevention, mental health, or access to healthcare."
+      desc: "Participants may work on projects that address issues like disease prevention"
     },
     {
       id: 2,
       img: img2,
       name: "Product 2",
-      desc: "Participants may work on projects that leverage blockchain technology, improve payment systems, or enhance financial literacy."
+      desc: "Participants may work on projects that leverage blockchain technology"
     },
     {
       id: 3,
       img: img3,
       name: "Product 1",
-      desc: "Participants may work on projects that leverage augmented reality or gamification to enhance learning experiences"
+      desc: "Participants may work on projects that leverage augmented reality"
     },
     {
       id: 4,
       img: img4,
       name: "Product 2",
-      desc: "Participants may work on projects that leverage IoT technology, improve public transportation, or enhance urban planning."
+      desc: "Participants may work on projects that leverage IoT technology"
     },    {
       id: 5,
       img: img2,
       name: "Product 1",
-      desc: "Participants may work on projects that promote renewable energy, reduce carbon emissions, or encourage sustainable practices."
+      desc: "Participants may work on projects that promote renewable energy"
     },
     {
       id: 6,
       img: img3,
       name: "Product 2",
-      desc: "Participants may work on projects that develop new encryption methods, improve authentication systems, or enhance data protection."
+      desc: "Participants may work on projects that develop new encryption methods"
     },    {
       id: 7,
       img: img1,
       name: "Product 1",
-      desc: " Participants may work on projects that improve natural language processing, develop autonomous systems, or enhance computer vision."
+      desc: " Participants may work on projects that improve natural language processing"
     },
     {
       id: 8,
       img: img2,
       name: "Product 2",
-      desc: " Participants may work on projects that leverage VR technology, develop new game mechanics, or enhance social gaming experiences"
+      desc: " Participants may work on projects that leverage VR technology"
     },
     {
       id: 9,
       img: img4,
       name: "Product 1",
-      desc: " Participants may work on projects that address issues like police brutality, income inequality, or access to education."
+      desc: " Participants may work on projects that address issues access to education."
     },
     {
       id: 10,
       img: img3,
       name: "Product 2",
-      desc: " Participants may work on projects that improve space propulsion systems, develop new materials for space travel, or enhance space-based communication systems."
+      desc: " Participants may work on projects that improve space propulsion systems"
     },
     
   ];

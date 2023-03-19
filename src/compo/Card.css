@@ -18,10 +18,10 @@ padding: 10px 20px;
 transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s;
 background: #250c5c;
 color: #faf6f6;
-margin: 3px;
+margin: px;
 }
 .bn30:hover {
     border-color: #000000;
-    background: #f7f7f7;
+    background: grey;
     color: black;
 }

@@ -9,8 +9,8 @@ function Card({ img, name, desc }) {
         <h2 className="card-title">{name}</h2>
         <p className="card-desc">{desc}</p>
         <div className='btn'>
-        <button class="bn30" role="button">join</button>
-        <button class="bn30" role="button">share</button>
+        <button class="bn30" role="button"> <a href="./static/index.html/index.html" target="_blank">Join</a></button>
+        <button class="bn30" role="button"> <a href="https://twitter.com/compose/tweet" target="_blank">Share</a></button>
         </div>
         
       </div>

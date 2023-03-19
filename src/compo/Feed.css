@@ -43,7 +43,11 @@
   .carousel-btnN img {
     height: 30px;
   }
-  
+
+  button {
+    margin: 0 1%;
+  }
+
   @media (max-width: 768px) {
     .carousel-btn img {
       height: 20px;
